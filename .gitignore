@@ -5,4 +5,5 @@
 *.fdb_latexmk
 *.synctex.gz
 *.out 
-!urnik-resitev.pdf
+!*-resitev.pdf
+!magic.pdf
